@@ -1,0 +1,2 @@
+# caonima
+p = console.log
