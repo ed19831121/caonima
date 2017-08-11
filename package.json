@@ -1,0 +1,22 @@
+{
+  "name": "caonima",
+  "version": "1.0.0",
+  "description": "p = console.log",
+  "main": "caonima.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ed19831121/caonima.git"
+  },
+  "keywords": [
+    "console.log"
+  ],
+  "author": "154538022",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ed19831121/caonima/issues"
+  },
+  "homepage": "https://github.com/ed19831121/caonima#readme"
+}
